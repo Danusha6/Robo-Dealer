@@ -1,0 +1,4 @@
+run = "cowsay Configure me!"
+
+[deployment]
+run = ["sh", "-c", "cowsay Configure me!"]
